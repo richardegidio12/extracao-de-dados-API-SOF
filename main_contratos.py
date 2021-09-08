@@ -45,7 +45,7 @@ for x in lista_de_anos_contrato:
 
         if number_of_pages > 1:
 
-            for p in range(302, 304):
+            for p in range(2, number_of_pages+1):
 
                 teste_get_page = connect.get_data_pag(p)
 
