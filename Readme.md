@@ -11,8 +11,11 @@
   - #### [API SOF](#api-sof)
   - #### [Criando Ambiente Virtual](#criando-ambiente-virtual)
   - #### [Extraindo os Dados da API](#extraindo-os-dados-da-api)
-- ### [Configurando recusros na AWS](#configurando-recursos-na-aws)
+- ### [Configurando recursos na AWS](#configurando-recursos-na-aws)
 - ### [Agendamentos na AWS](#agendamentos-na-aws)
+- ### [Conclusão](#conclusão)
+- ### [Próximas etapas](#próximas-etapas)
+- ### [Contato](#contato)
 
 <br> </br>
 
